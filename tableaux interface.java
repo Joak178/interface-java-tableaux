@@ -889,7 +889,7 @@ public class TableauIllustrator extends JFrame {
 	    }
 
 	    // Création et ajout du champ de texte
-	    JTextField textField = createTypeRestrictedTextField(displayValue, 8, type, index);
+	    JTextField textField = createTypeRestrictedTextField(displayValue, 10, type, index);
 	    valeursFields[index] = textField;
 	    panel.add(textField);
 
