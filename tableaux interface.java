@@ -69,7 +69,7 @@ public class TableauIllustrator extends JFrame {
 	 * Constructeur principal de l'application
 	 */
 	public TableauIllustrator() {
-		setTitle("Illustrateur de Tableaux Java");
+		setTitle("Initialisation de tableaux Java");
 		setSize(950, 700);
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setLocationRelativeTo(null);
